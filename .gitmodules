@@ -1,0 +1,3 @@
+[submodule "NLS"]
+	path = NLS
+	url = https://github.com/robander/metadita.nlstest.git
