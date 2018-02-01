@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 1.x Task//EN" "missing.dtd">
+<task deliveryTarget="all" id="task_mjd_tsw_rv" xml:lang="en-us">
+<title>Sample task topic</title>
+<shortdesc>short desc</shortdesc>
+<taskbody>
+<context>
+<p>Something about this</p>
+</context>
+<steps>
+<step>
+<cmd>Single command</cmd>
+</step>
+</steps>
+</taskbody>
+</task>
