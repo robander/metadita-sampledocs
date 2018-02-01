@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossgroup id="glossgroup" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:glossgroup.xsd">
+  <title>Glossary entry file containing multiple entries</title>
+  <glossentry id="ddl">
+    <glossterm>Big</glossterm>
+    <glossdef>Not small</glossdef>
+  </glossentry>
+<glossentry id="glossentry_htm_p13_scb">
+<glossterm>Small</glossterm>
+<glossdef>Not big</glossdef>
+</glossentry>
+</glossgroup>

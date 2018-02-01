@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<troubleshooting id="trouble" xml:lang="en-us" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:troubleshooting.xsd">
+<title>Troubleshooting!</title>
+<shortdesc>It's important</shortdesc>
+</troubleshooting>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookmap id="learningbook" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:spec:learning:xsd:learningBookmap.xsd:1.3">
+    <booktitle>
+        <mainbooktitle>Learning Bookmap</mainbooktitle>
+    </booktitle>
+    <chapter href="learningMap.ditamap" format="ditamap"/>
+</bookmap>

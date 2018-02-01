@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd:1.3">
+    <booktitle>
+        <mainbooktitle>Bookmap</mainbooktitle>
+    </booktitle>
+<chapter href="tcmap.ditamap" format="ditamap"/>
+</bookmap>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="machinetask" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:spec:machinery:xsd:machinerytask.xsd">
+    <title>Machines! Task title</title>
+    <shortdesc>Machines are neat</shortdesc>
+    <taskbody/>
+</task>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:ditaval.xsd:1.x">
+    <prop action="exclude" att="audience" val="novice"/>
+    <prop action="flag" att="audience" val="expert"/>
+</val>

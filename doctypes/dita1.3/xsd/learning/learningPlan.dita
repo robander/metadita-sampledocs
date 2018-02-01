@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningPlan id="test" xml:lang="en-us" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:spec:learning:xsd:learningPlan.xsd:1.3">
+<title>learningPlan test</title>
+<learningPlanbody></learningPlanbody>
+</learningPlan>
