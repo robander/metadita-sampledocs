@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningMap.rng:1.3" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<map id="test" xml:lang="en-us">
+<title>learning map test</title>
+<topicref href="learningAssessment.dita"/>
+<topicref href="learningContent.dita"/>
+<topicref href="learningOverview.dita"/>
+<topicref href="learningPlan.dita"/>
+<topicref href="learningSummary.dita"/>
+<topicref href="learningGroupMap.ditamap" format="ditamap"/>
+<topicref href="learningObjectMap.ditamap" format="ditamap"/>
+</map>

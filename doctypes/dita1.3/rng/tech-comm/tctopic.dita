@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:topic.rng:1.3" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<topic deliveryTarget="all" id="topic_hvf_tpw_rv" xml:lang="en-us">
+<title>Simple topic</title>
+<shortdesc>Tech comm topic</shortdesc>
+<body>
+<p>Content</p>
+</body>
+</topic>

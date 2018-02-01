@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:ditaval.rng:1.x" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<val>
+    <prop action="exclude" att="audience" val="novice"/>
+    <prop action="flag" att="audience" val="expert"/>
+</val>

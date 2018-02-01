@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:basemap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<map xml:lang="en-us"><title>Base map</title>
+<topicref href="base/SubjectScheme.ditamap" format="ditamap"/>
+<topicref href="base/basemap.ditamap" format="ditamap" navtitle="Base map"/>
+<topicref href="tech-comm/bookmap.ditamap" format="ditamap" navtitle="Bookmap"/>
+<topicref href="learning/learningBookmap.ditamap" format="ditamap"/>
+</map>

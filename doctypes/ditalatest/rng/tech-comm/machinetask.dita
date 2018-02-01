@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:machinery:rng:machinerytask.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<task id="machinetask">
+    <title>Machines! Task title</title>
+    <shortdesc>Machines are neat</shortdesc>
+    <taskbody/>
+</task>
