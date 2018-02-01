@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.3 Base Map//EN" "missing.dtd">
+<map xml:lang="en-us"><title>All 1.3 version specific grammars</title>
+<topicref href="dtd/1.3.versionSpecificDTD.ditamap" format="ditamap" navtitle="DTD map"/>
+<topicref href="xsd/1.3.versionSpecificXSD.ditamap" format="ditamap" navtitle="XSD map"/>
+</map>
