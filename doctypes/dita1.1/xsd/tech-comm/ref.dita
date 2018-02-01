@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reference id="reference_t3h_ypw_rv" xml:lang="en-us" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:reference.xsd:1.1">
+<title>Reference topic</title>
+<shortdesc>Sample reference topic</shortdesc>
+<refbody>
+<properties>
+<property>
+<proptype>Prop type</proptype>
+<propvalue>Prop value</propvalue>
+<propdesc>prop description</propdesc>
+</property>
+</properties>
+</refbody>
+</reference>

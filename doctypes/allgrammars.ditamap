@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.3 Base Map//EN" "missing.dtd">
 <map xml:lang="en-us"><title>All OASIS grammars</title>
+<mapref href="dita1.1/1.1grammars.ditamap"/>
 <mapref href="dita1.2/1.2grammars.ditamap"/>
 <mapref href="dita1.x/1.xgrammars.ditamap"/>
 <mapref href="dita1.3/1.3grammars.ditamap"/>
