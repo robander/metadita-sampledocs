@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<learningSummary id="test" xml:lang="en-us" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:spec:learning:xsd:learningSummary.xsd:1.2">
+<title>learningSummary test</title>
+<learningSummarybody></learningSummarybody>
+</learningSummary>

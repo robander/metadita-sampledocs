@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.2 Map//EN" "missing.dtd">
+<map xml:lang="en-us"><title>Tech Comm Map test</title>
+<mapref href="classifyMap.ditamap"/>
+<topicref href="concept.dita" navtitle="Concept"/>
+<topicref href="ditabase.dita" navtitle="ditabase"/>
+<topicref href="ref.dita" navtitle="Reference"/>
+<topicref href="tasktask.dita" navtitle="Task"/>
+<topicref href="gentask.dita" navtitle="Task"/>
+<topicref href="tctopic.dita" navtitle="Topic"/>
+<topicref href="glossentry.dita"/>
+<topicref href="glossgroup.dita"/>
+<topicref href="machinetask.dita"/>
+</map>

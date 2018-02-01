@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.2 Learning Map//EN"  "missing.dtd">
+<map id="test" xml:lang="en-us">
+<title>learning map test</title>
+<topicref href="learningAssessment.dita"/>
+<topicref href="learningContent.dita"/>
+<topicref href="learningOverview.dita"/>
+<topicref href="learningPlan.dita"/>
+<topicref href="learningSummary.dita"/>
+</map>

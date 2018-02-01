@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA 1.2 Composite//EN" "missing.dtd">
+<dita xml:lang="en-us">
+<concept id="concept_tz5_wsw_rv" xml:lang="en-us">
+<title>DITABASE: concept</title>
+<shortdesc>start with concept</shortdesc>
+<conbody>
+<p>content</p>
+</conbody>
+</concept>
+<task id="task_uz5_wsw_rv">
+<title>DITABASE: task</title>
+<taskbody>
+<steps>
+<step>
+<cmd>do something</cmd>
+</step>
+</steps>
+</taskbody>
+</task>
+</dita>
