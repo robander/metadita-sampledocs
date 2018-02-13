@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tables">
+  <title>Table nesting is unwise</title>
+<shortdesc>I've only ever seen one level of table nesting, but...</shortdesc>
+  <body>
+<table id="table_asz_yns_vcb">
+<title>This is a table. Fun!</title>
+<tgroup cols="2">
+<colspec colname="c1" colnum="1"/>
+<colspec colname="c2" colnum="2"/>
+<thead>
+<row>
+<entry>I won't go too deep</entry>
+<entry>Not very deep really</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>look over there</entry>
+<entry>
+<p>
+<table id="table_xdz_14s_vcb">
+<title>This is a table. Fun!</title>
+<tgroup cols="2">
+<colspec colname="c1" colnum="1"/>
+<colspec colname="c2" colnum="2"/>
+<thead>
+<row>
+<entry>I won't go too deep</entry>
+<entry>Not very deep really</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>look over there</entry>
+<entry>
+<p>
+<table id="table_tbf_b4s_vcb">
+<title>This is a table. Fun!</title>
+<tgroup cols="2">
+<colspec colname="c1" colnum="1"/>
+<colspec colname="c2" colnum="2"/>
+<thead>
+<row>
+<entry>I won't go too deep</entry>
+<entry>Not very deep really</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>look over there</entry>
+<entry>
+<p>
+<table id="table_txn_b4s_vcb">
+<title>This is a table. Fun!</title>
+<tgroup cols="2">
+<colspec colname="c1" colnum="1"/>
+<colspec colname="c2" colnum="2"/>
+<thead>
+<row>
+<entry>I won't go too deep</entry>
+<entry>Not very deep really</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>look over there</entry>
+<entry>hi</entry>
+</row>
+<row>
+<entry>yeah up there</entry>
+<entry>look right above me</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</entry>
+</row>
+<row>
+<entry>yeah up there</entry>
+<entry>look right above me</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</entry>
+</row>
+<row>
+<entry>yeah up there</entry>
+<entry>look right above me</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</entry>
+</row>
+<row>
+<entry>yeah up there</entry>
+<entry>look right above me</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<simpletable relcolwidth="1* 1*">
+<sthead>
+<stentry>Look down and to the right</stentry>
+<stentry>Look down</stentry>
+</sthead>
+<strow>
+<stentry>Look to the right</stentry>
+<stentry>
+<p>
+<simpletable relcolwidth="1* 1*">
+<sthead>
+<stentry>Look down and to the right</stentry>
+<stentry>Look down</stentry>
+</sthead>
+<strow>
+<stentry>Look to the right</stentry>
+<stentry>
+<p>
+<simpletable relcolwidth="1* 1*">
+<sthead>
+<stentry>Look down and to the right</stentry>
+<stentry>Look down</stentry>
+</sthead>
+<strow>
+<stentry>Look to the right</stentry>
+<stentry>
+<p>
+<simpletable relcolwidth="1* 1*">
+<sthead>
+<stentry>Look down and to the right</stentry>
+<stentry>Look down</stentry>
+</sthead>
+<strow>
+<stentry>Look to the right</stentry>
+<stentry>hi</stentry>
+</strow>
+<strow>
+<stentry>Look up and to the right</stentry>
+<stentry>Look up</stentry>
+</strow>
+</simpletable>
+</p>
+</stentry>
+</strow>
+<strow>
+<stentry>Look up and to the right</stentry>
+<stentry>Look up</stentry>
+</strow>
+</simpletable>
+</p>
+</stentry>
+</strow>
+<strow>
+<stentry>Look up and to the right</stentry>
+<stentry>Look up</stentry>
+</strow>
+</simpletable>
+</p>
+</stentry>
+</strow>
+<strow>
+<stentry>Look up and to the right</stentry>
+<stentry>Look up</stentry>
+</strow>
+</simpletable>
+</body>
+</topic>

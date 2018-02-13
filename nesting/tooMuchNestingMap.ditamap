@@ -2,5 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map xml:lang="en-us"><title>Too much nesting!</title>
 <topicref href="olul.dita"/>
+<topicref href="dl.dita"/>
+<topicref href="figures.dita"/>
+<topicref href="tables.dita"/>
 <topicref href="topics.dita"/>
 </map>

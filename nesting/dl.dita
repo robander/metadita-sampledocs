@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="dl">
+  <title>Definition lists</title>
+<shortdesc>I hear rumors that this sort of nesting is what drives some people up the wall about
+XML.</shortdesc>
+  <body>
+<dl>
+<dlentry>
+<dt>Term</dt>
+<dd>
+<p>Here is a definition. Also:</p>
+<dl>
+<dlentry>
+<dt>Term</dt>
+<dd>
+<p>Here is a definition. Also:</p>
+<dl>
+<dlentry>
+<dt>Term</dt>
+<dd>
+<p>Here is a definition. Also:</p>
+<dl>
+<dlentry>
+<dt>Term</dt>
+<dd>
+<p>Here is a definition. Also:</p>
+<dl>
+<dlentry>
+<dt>Term</dt>
+<dd>
+<p>Here is a definition. Also:</p>
+<dl>
+<dlentry>
+<dt>Term</dt>
+<dd>
+<p>Here is a definition. Also:</p>
+<dl>
+<dlentry>
+<dt>Term</dt>
+<dd>
+<p>Here is a definition. Also:</p>
+<dl>
+<dlentry>
+<dt>Term</dt>
+<dd>
+<p>Here is a definition. Also:</p>
+<dl>
+<dlentry>
+<dt>Term</dt>
+<dd>
+<p>Here is a definition. Probably about as far as we should go, it's already unreasonable.</p>
+</dd>
+</dlentry>
+</dl>
+</dd>
+</dlentry>
+</dl>
+</dd>
+</dlentry>
+</dl>
+</dd>
+</dlentry>
+</dl>
+</dd>
+</dlentry>
+</dl>
+</dd>
+</dlentry>
+</dl>
+</dd>
+</dlentry>
+</dl>
+</dd>
+</dlentry>
+</dl>
+</dd>
+</dlentry>
+</dl>
+</body>
+</topic>

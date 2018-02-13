@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="figures">
+  <title>You can nest figures?!?!</title>
+  <body>
+<fig id="fig_udg_mns_vcb">
+<title>This is a lovely figure.</title>
+<p>There is some content in here. Can we sneak in a figure? Why yes, we can!!! <fig
+id="fig_v1t_qns_vcb">
+<title>This is a lovely figure.</title>
+<p>There is some content in here. Can we sneak in a figure? Why yes, we can!!! <fig
+id="fig_bxv_qns_vcb">
+<title>This is a lovely figure.</title>
+<p>There is some content in here. Can we sneak in a figure? Why yes, we can!!! <fig
+id="fig_jyw_qns_vcb">
+<title>This is a lovely figure.</title>
+<p>There is some content in here. Can we sneak in a figure? Why yes, we can!!! <fig
+id="fig_prx_qns_vcb">
+<title>This is a lovely figure.</title>
+<p>There is some content in here. Can we sneak in a figure? Why yes, we can!!! <fig
+id="fig_bky_qns_vcb">
+<title>This is a lovely figure.</title>
+<p>There is some content in here. Can we sneak in a figure? Why yes, we can!!! <fig
+id="fig_bjz_qns_vcb">
+<title>This is a lovely figure.</title>
+<p>There is some content in here. Can we sneak in a figure? Why yes, we can!!! <fig
+id="fig_db1_rns_vcb">
+<title>This is a lovely figure.</title>
+<p>There is some content in here. Can we sneak in a figure? Why yes, we can!!! <fig
+id="fig_t51_rns_vcb">
+<title>This is a lovely figure.</title>
+<p>There is some content in here. Can we sneak in a figure? Why yes, we can!!! <fig
+id="fig_zsb_rns_vcb">
+<title>This is a lovely figure.</title>
+<p>There is some content in here. Can we sneak in a figure? Why yes, we can!!! </p>
+</fig></p>
+</fig></p>
+</fig></p>
+</fig></p>
+</fig></p>
+</fig></p>
+</fig></p>
+</fig></p>
+</fig></p>
+</fig>
+</body>
+</topic>
