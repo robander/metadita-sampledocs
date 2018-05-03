@@ -3,5 +3,6 @@
 <map xml:lang="en-us">
 <title>6 degrees of Kevin Link'n (submap)</title>
 <topicref href="submap-1.dita"/>
+<topicref href="submap-1conref.dita"/>
 <mapref href="subsubmap.ditamap"/>
 </map>
