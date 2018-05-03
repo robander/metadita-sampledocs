@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="en-us">
+<title>6 degrees of Kevin Link'n</title>
+<topicref href="root-1.dita"/>
+<mapref href="submap.ditamap"/>
+</map>

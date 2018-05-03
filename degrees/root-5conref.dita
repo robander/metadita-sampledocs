@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="root-5">
+<title>From root: 5 degrees</title>
+<body>
+<p><ph id="ph">reusable phrase 5 degrees from root</ph></p>
+<p>Now conref to: <ph conref="mixupconref.dita#mixup/ph"/></p>
+</body>
+</topic>

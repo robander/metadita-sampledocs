@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="mixup">
+<title>6 from root, 4 from submap, 3 from subsubmap</title>
+<body>
+<p>This is the real test!</p>
+</body>
+</topic>

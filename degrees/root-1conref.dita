@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="root-1">
+  <title>From root: 1 degree</title>
+  <body>
+<p>Now conref to: <ph conref="root-2conref.dita#root-2/ph"/></p>
+</body>
+</topic>

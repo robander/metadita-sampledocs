@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="subsubmap-2">
+<title>From subsubmap: 2 degrees</title>
+  <body>
+<p><ph id="ph">reusable phrase 2 degrees from subsubmap</ph></p>
+<p>Now conref to: <ph conref="subsubmap-3conref.dita#subsubmap-3/ph"/></p>
+<p>Now conref to: <ph conref="mixupconref.dita#mixup/ph"/></p>
+</body>
+</topic>
