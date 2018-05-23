@@ -1,0 +1,1 @@
+call java -jar \DITATools\idwb\lib\saxon9.jar -xsl:mergerng.xsl -o:combined.rng -s:\Users\IBM_ADMIN\github\robander\dita\doctypes\rng\base\rng\basetopic.rng
