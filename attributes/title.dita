@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA 2.0 Base Topic//EN" "basetopic.dtd">
+<topic id="title"><title>Test title</title><body><section><title conref="#./test">testcontent</title><title id="test" conrefend="test" conaction="mark" conkeyref="test" translate="no" xml:lang="en" dir="lro" base="test" outputclass="test" rev="test" class="test">testcontent</title></section></body></topic>

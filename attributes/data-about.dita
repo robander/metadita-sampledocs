@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA 2.0 Base Topic//EN" "basetopic.dtd">
+<topic id="data-about"><title>Test data-about</title><body><section><data><data-about conref="#./test"><data>testcontent</data></data-about></data><data><data-about id="test" conrefend="test" conaction="mark" conkeyref="test" props="test" platform="test" product="test" audience="test" otherprops="test" deliveryTarget="test" base="test" importance="default" rev="test" status="changed" translate="no" xml:lang="en" dir="lro" outputclass="test" href="test" keyref="test" format="test" type="test" scope="external" class="test"><data>testcontent</data></data-about></data></section></body></topic>

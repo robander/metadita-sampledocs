@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA 2.0 Base Topic//EN" "basetopic.dtd">
+<topic id="no-topic-nesting"><title>Test no-topic-nesting</title><body><section><no-topic-nesting conref="#./test">testcontent</no-topic-nesting><no-topic-nesting class="test">testcontent</no-topic-nesting></section></body></topic>
