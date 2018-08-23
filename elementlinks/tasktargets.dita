@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task">
+<title id="tasktitle">Task (general)</title>
+<shortdesc id="shortdesc">task shortdesc</shortdesc>
+<taskbody id="taskbody">
+<prereq id="prereq">The prereq</prereq>
+<context id="context">The context</context>
+<steps id="steps">
+<stepsection id="stepsection">STEP SECTION</stepsection>
+<step id="step"><cmd id="cmd">Step command</cmd><info id="info">the info</info><tutorialinfo
+id="tutorialinfo">tutorial info</tutorialinfo><substeps id="substeps">
+<substep id="substep"><cmd>sub step here</cmd></substep>
+</substeps></step>
+<step><cmd>cmd</cmd><choices id="choices">
+<choice id="choice">this is a choice</choice>
+</choices></step>
+<step><cmd>cmd</cmd><choicetable frame="none" relcolwidth="1* 1*" id="choicetable">
+<chhead id="chhead">
+<choptionhd id="choptionhd">option head</choptionhd>
+<chdeschd id="chdeschd">desc head</chdeschd>
+</chhead>
+<chrow id="chrow">
+<choption id="choption">choice option</choption>
+<chdesc id="chdesc">choice desc</chdesc>
+</chrow>
+</choicetable></step>
+<step><cmd>cmd</cmd><stepxmp id="stepxmp">the step xmp</stepxmp><stepresult id="stepresult">the
+stepresult</stepresult><steptroubleshooting id="steptroubleshooting">The step
+troubleshooting</steptroubleshooting></step>
+</steps>
+<result id="result">the result</result>
+<tasktroubleshooting id="tasktroubleshooting">the troubleshooting</tasktroubleshooting>
+<postreq id="postreq">the postreq</postreq>
+</taskbody>
+</task>

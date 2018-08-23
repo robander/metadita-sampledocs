@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xml:lang="en" id="topic">
+<title id="topictitle">First topic</title>
+<abstract id="abstract">abstract, that contains a<shortdesc id="shortdesc">short
+description</shortdesc></abstract>
+<body id="body">
+<bodydiv id="bodydiv">body division</bodydiv>
+<section id="section">
+<title id="sectiontitle">Section title</title>
+<ol id="ol">
+<li id="ol-li">This is a list item</li>
+<li><cite id="cite">citation</cite></li>
+<li>
+<dl id="dl">
+<dlhead id="dlhead">
+<dthd id="dthd">term header in dlhead</dthd>
+<ddhd>description header in dlhead</ddhd>
+</dlhead>
+<dlentry id="dlentry">
+<dt id="dt">dt in dlentry</dt>
+<dd id="dd">definition description</dd>
+</dlentry>
+</dl>
+</li>
+<li>
+<div id="div">div</div>
+</li>
+<li>
+<draft-comment author="robander" id="draft-comment">do I really link to a
+draft-comment?</draft-comment>
+</li>
+<li>
+<required-cleanup id="required-cleanup">required cleanup...</required-cleanup>
+</li>
+<li>
+<fig id="fig">
+<title id="figtitle">Title in a figure</title>
+<p>text in figure</p>
+</fig>
+</li>
+<li><image id="image" href="image.jpg">
+<alt id="alt">Alt text for screen cap from spec</alt>
+</image></li>
+<li><keyword id="keyword">key word</keyword></li>
+<li>
+<lines id="lines">lines</lines>
+</li>
+<li>
+<lq id="lq">long quote</lq>
+</li>
+<li>
+<note id="note">note</note>
+<note type="attention" id="attentionnote">attention</note>
+<note type="caution" id="cautionnote">CAUTION</note>
+<note type="danger" id="dangernote">DANGER</note>
+<note type="fastpath" id="fastpathnote">fastpath</note>
+<note type="important" id="importantnote">important</note>
+<note type="notice" id="noticenote">notice</note>
+<note type="remember" id="remembernote">remember</note>
+<note type="restriction" id="restrictionnote">restriction</note>
+<note type="tip" id="tipnote">tip</note>
+<note type="trouble" id="troublenote">trouble</note>
+</li>
+<li><object id="object">
+<desc>this is some sort of object</desc>
+</object></li>
+<li>
+<p id="p">paragraph</p>
+</li>
+<li><ph id="ph">phrase</ph></li>
+<li>
+<pre id="pre">preformatted</pre>
+</li>
+<li><q id="q">quote</q></li>
+<li>
+<sl id="sl">
+<sli id="sli">simple list item</sli>
+</sl>
+</li>
+<li><term id="term">simple term</term></li>
+<li><text id="text">simple text</text></li>
+<li><tm tmtype="reg" id="tm">trademark</tm></li>
+<li>
+<ul id="ul">
+<li id="ulli">list item in ul</li>
+</ul>
+</li>
+<li><xref id="xref" href="http://metadita.org" format="html" scope="external"/></li>
+<li>
+<table id="table">
+<title id="tabletitle">Title of a table</title>
+<desc id="tabledesc">desc of a table</desc>
+<tgroup cols="2" id="tgroup">
+<colspec colname="c1" colnum="1"/>
+<colspec colname="c2" colnum="2"/>
+<thead id="thead">
+<row>
+<entry>a</entry>
+<entry>b</entry>
+</row>
+</thead>
+<tbody>
+<row id="row">
+<entry id="entry">c</entry>
+<entry>d</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</li>
+<li>
+<simpletable relcolwidth="1* 1*" id="simpletable">
+<sthead id="sthead">
+<stentry>a</stentry>
+<stentry>b</stentry>
+</sthead>
+<strow id="strow">
+<stentry id="stentry">c</stentry>
+<stentry>d</stentry>
+</strow>
+</simpletable>
+</li>
+<li>
+<itemgroup id="itemgroup">item group</itemgroup>
+</li>
+<li><unknown id="unknown">unknown!</unknown></li>
+<li><foreign id="foreign">foreign!</foreign></li>
+</ol>
+<sectiondiv id="sectiondiv">section division</sectiondiv>
+</section>
+<section>
+<title>hazard domain</title>
+<hazardstatement id="hazardstatement">
+<messagepanel id="messagepanel">
+<typeofhazard id="typeofhazard">big</typeofhazard>
+<howtoavoid id="howtoavoid">don't do it</howtoavoid>
+</messagepanel>
+</hazardstatement>
+</section>
+<section>
+<title>highlight</title>
+<ul>
+<li><b id="b">bold</b></li>
+<li><i id="i">italic</i></li>
+<li><sub id="sub">subscript</sub></li>
+<li><sup id="sup">superscript</sup></li>
+<li><tt id="tt">ttype</tt></li>
+<li><u id="u">underline</u></li>
+<li><line-through id="line-through">line through</line-through></li>
+<li><overline id="overline">over line</overline></li>
+</ul>
+</section>
+<section>
+<title>markup</title>
+<ul>
+<li><markupname id="markupname">markup name</markupname></li>
+<li><xmlatt id="xmlatt">xml attribute</xmlatt></li>
+<li><xmlelement id="xmlelement">xml element</xmlelement></li>
+<li><xmlnsname id="xmlnsname">xml namespace</xmlnsname></li>
+<li><xmlpi id="xmlpi">xml PI</xmlpi></li>
+<li><textentity id="textentity">text entity</textentity></li>
+<li><parameterentity id="parameterentity">parameter entity</parameterentity></li>
+<li><numcharref id="numcharref">number character ref</numcharref></li>
+</ul>
+</section>
+<section>
+<title>programming</title>
+<ul>
+<li><apiname id="apiname">api name</apiname></li>
+<li>
+<codeblock id="codeblock">code block</codeblock>
+</li>
+<li><codeph id="codeph">code phrase</codeph></li>
+<li><option id="option">option</option></li>
+<li>
+<parml id="parml">
+<plentry id="plentry">
+<pt id="pt">parm term in plentry</pt>
+<pd id="pd">parm description</pd>
+</plentry>
+</parml>
+</li>
+<li><synph id="synph">syntax phrase: <kwd id="kwd">kwd</kwd>
+<var id="var">var</var><oper id="oper">operator</oper>
+<delim id="delim">delimeter</delim>
+<sep id="sep">seperator</sep></synph></li>
+<li>
+<syntaxdiagram id="syntaxdiagram">
+<title id="syntaxdiagramtitle">title in syntax</title>
+<groupseq>
+<kwd>hi</kwd>
+</groupseq>
+</syntaxdiagram>
+</li>
+</ul>
+</section>
+<section>
+<title>software</title>
+<ul>
+<li><msgph id="msgph">message phrase</msgph></li>
+<li>
+<msgblock id="msgblock">message block</msgblock>
+</li>
+<li><msgnum id="msgnum">message number</msgnum></li>
+<li><cmdname id="cmdname">command name</cmdname></li>
+<li><filepath id="filepath">file path</filepath></li>
+<li><userinput id="userinput">user input</userinput></li>
+<li><systemoutput id="systemoutput">system output</systemoutput></li>
+</ul>
+</section>
+<section>
+<title>UI</title>
+<ul>
+<li><uicontrol id="uicontrol">UI control</uicontrol></li>
+<li><wintitle id="wintitle">window title</wintitle></li>
+<li><menucascade id="menucascade">
+<uicontrol>menu</uicontrol>
+<uicontrol>cascade</uicontrol>
+</menucascade></li>
+<li>
+<screen id="screen">screeeeeeen</screen>
+</li>
+</ul>
+</section>
+<example id="example">
+<title id="exampletitle">Example title</title>
+</example>
+</body>
+</topic>

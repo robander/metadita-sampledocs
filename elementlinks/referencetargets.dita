@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference">
+<title>Reference topic</title>
+<shortdesc id="shortdesc">Short reference description.</shortdesc>
+<refbody id="refbody">
+<refbodydiv id="refbodydiv">
+<refsyn id="refsyn">reference syntax section </refsyn>
+</refbodydiv>
+<properties frame="none" id="properties">
+<prophead id="prophead">
+<proptypehd id="proptypehd">type head</proptypehd>
+<propvaluehd id="propvaluehd">value head</propvaluehd>
+<propdeschd id="propdeschd">desc head</propdeschd>
+</prophead>
+<property id="property">
+<proptype id="proptype">TYPE!</proptype>
+<propvalue id="propvalue">VALUE!</propvalue>
+<propdesc id="propdesc">DESC!</propdesc>
+</property>
+</properties>
+</refbody>
+</reference>

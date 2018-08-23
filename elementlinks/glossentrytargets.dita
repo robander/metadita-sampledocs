@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="glossentry">
+<glossterm id="glossterm">glossary term!</glossterm>
+<glossdef id="glossdef">definition here</glossdef>
+<glossBody id="glossBody"><glossPartOfSpeech value="noon"/><glossStatus value="important"
+id="glossStatus"/><glossSurfaceForm id="glossSurfaceForm">glossary surface
+form</glossSurfaceForm><glossUsage id="glossUsage">use it this way!</glossUsage><glossScopeNote
+id="glossScopeNote">scope note?</glossScopeNote><glossSymbol id="glossSymbol" href="image.jpg"
+><alt>gloss Symbol</alt></glossSymbol><glossAlt>
+<glossAcronym id="glossAcronym">Acronym!</glossAcronym>
+</glossAlt><glossAlt>
+<glossShortForm id="glossShortForm">shortform</glossShortForm>
+</glossAlt><glossAlt id="glossAlt"><glossAbbreviation id="glossAbbreviation">glossary
+abbreviation</glossAbbreviation><glossProperty id="glossProperty"
+>property!</glossProperty><glossAlternateFor href="https://en.wikipedia.org/wiki/TL;DR"
+format="html" scope="external" id="glossAlternateFor"/></glossAlt></glossBody>
+</glossentry>

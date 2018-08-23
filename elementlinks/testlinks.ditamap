@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="en-us"><title>Test how we handle links to things</title>
+<topicref href="links-topic.dita"/>
+<topicref href="linktargets.dita" keys="linktargets"/>
+<topicref href="links-task.dita"/>
+<topicref href="tasktargets.dita" keys="tasktargets"/>
+<topicref href="links-concept.dita"/>
+<topicref href="concepttargets.dita" keys="concepttargets"/>
+<topicref href="links-reference.dita"/>
+<topicref href="referencetargets.dita" keys="referencetargets"/>
+<topicref href="links-glossary.dita"/>
+<topicref href="glossentrytargets.dita" keys="glossentrytargets"/>
+<topicref href="links-troubleshooting.dita"/>
+<topicref href="troubletargets.dita" keys="troubleshootingtargets"/>
+</map>

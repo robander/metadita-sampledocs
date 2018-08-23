@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_g23_ktb_x2b">
+    <title>Link to things in a concept</title>
+    <body>
+<p>Link to file first: <xref keyref="concepttargets"/></p>
+    <section><title>With link text</title><ul><li><xref keyref="concepttargets/concepttitle">Link to id="concepttitle"</xref></li><li><xref keyref="concepttargets/shortdesc">Link to id="shortdesc"</xref></li><li><xref keyref="concepttargets/conbody">Link to id="conbody"</xref></li><li><xref keyref="concepttargets/conbodydiv">Link to id="conbodydiv"</xref></li><li><xref keyref="concepttargets/section">Link to id="section"</xref></li></ul></section><section><title>Without link text</title><ul><li>Link to id=concepttitle: <xref keyref="concepttargets/concepttitle"></xref></li><li>Link to id=shortdesc: <xref keyref="concepttargets/shortdesc"></xref></li><li>Link to id=conbody: <xref keyref="concepttargets/conbody"></xref></li><li>Link to id=conbodydiv: <xref keyref="concepttargets/conbodydiv"></xref></li><li>Link to id=section: <xref keyref="concepttargets/section"></xref></li></ul></section>
+</body>
+</topic>
