@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="inmap-link">
+  <title>In map, has conref</title>
+<shortdesc>Conref to topics that are simple, or have links, or have conref</shortdesc>
+  <body>
+<ul>
+<li>Pull phrase from simple target: <ph conref="conreftarget-simple.dita#reuse/reuse"/></li>
+<li>Pull phrase from target that also has links: <ph conref="conreftarget-link.dita#reuse/reuse"
+/></li>
+<li>Pull phrase from target that also has conref: <ph conref="conreftarget-conref.dita#reuse/reuse"
+/></li>
+</ul>
+</body>
+</topic>

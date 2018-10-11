@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reuse">
+<title>Conref in conref target</title>
+<body>
+<p><ph id="reuse">Reusable phrase in file that also has a conref</ph></p>
+<p>Extra thing I don't need: <ph conref="extra-conref-target-from-conref.dita#reuse/reuse"/></p>
+</body>
+</topic>

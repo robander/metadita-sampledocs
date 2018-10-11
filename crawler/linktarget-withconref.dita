@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="linktarget-withconref">
+  <title>Target of a link, I also use conref</title>
+  <body>
+<p>Go get a phase from some other file: <ph conref="extra-conref-target.dita#reuse/reuse"/></p>
+</body>
+</topic>

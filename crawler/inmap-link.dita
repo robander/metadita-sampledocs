@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="inmap-link">
+  <title>In map, has links</title>
+<shortdesc>Link to topics that are simple, or have links, or have conref</shortdesc>
+  <body>
+<ul>
+<li><xref href="linktarget-simple.dita"/></li>
+<li><xref href="linktarget-withlink.dita"/></li>
+<li><xref href="linktarget-withconref.dita"/></li>
+</ul>
+</body>
+</topic>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="extra-linktarget-in-conref-file">
+  <title>Link target in reuse file that isn't published</title>
+  <body>
+    <p>Starting to make spaghetti links</p>
+  </body>
+</topic>
