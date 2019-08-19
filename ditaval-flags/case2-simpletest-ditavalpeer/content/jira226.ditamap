@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Jira 226</title>
+<topicref href="jira226outer.dita" platform="A"
+><topicref href="subdirtest/jira226middle.dita" platform="B"><topicref href="jira226inner.dita" platform="C"/></topicref></topicref>
+</map>

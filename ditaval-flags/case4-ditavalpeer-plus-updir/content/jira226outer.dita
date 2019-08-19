@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="jira226outer">
+    <title>Outer topic</title>
+    <body>
+<p>content with no flags at all</p>
+        <p rev="flags">Revised paragraph</p>
+<p>actually put in an image: <image href="anotherpuff.png" id="image_kdh_3zs_yhb"/></p>
+<p platform="A">Paragraph with platform A</p>
+<p platform="B">Paragraph with platform B</p>
+<p platform="C">Paragraph with platform C</p>
+<p>content with no flags at all</p>
+    </body>
+</topic>

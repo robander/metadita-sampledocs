@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><val>
+<prop action="flag" att="platform" val="A">
+<startflag imageref="startpuffA.jpg"><alt-text>Start the AAAA</alt-text></startflag></prop>
+<prop action="flag" att="platform" val="B">
+<startflag imageref="startpuffB.jpg"><alt-text>Start the BBBB</alt-text></startflag></prop>
+<prop action="flag" att="platform" val="C">
+<startflag imageref="subdir/startpuffC.jpg"><alt-text>Start the CCCC</alt-text></startflag></prop>
+
+   <revprop action="flag" val="flags" changebar="solid">
+<startflag imageref="startpuff.png"><alt-text>this starts the rev</alt-text></startflag>
+<endflag imageref="endpuff.png"><alt-text>this ends the rev</alt-text></endflag></revprop>
+<revprop action="flag" val="svg">
+  <startflag imageref="startchange.jpg"><alt-text>this starts the rev</alt-text></startflag>
+  <endflag imageref="endchange.jpg"><alt-text>this ends the rev</alt-text></endflag></revprop>
+</val>
