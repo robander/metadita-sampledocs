@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:bookmap.rng:2.0" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Bookmap</mainbooktitle>
+    </booktitle>
+<chapter href="tcmap.ditamap" format="ditamap"/>
+</bookmap>

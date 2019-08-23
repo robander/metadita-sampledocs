@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:glossentry.rng:2.0" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<glossentry id="glossentry">
+<glossterm>glossentry: puffin</glossterm>
+<glossdef>A really cool bird</glossdef>
+</glossentry>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:troubleshooting.rng:2.0" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<troubleshooting id="trouble" xml:lang="en-us">
+<title>Troubleshooting!</title>
+<shortdesc>It's important</shortdesc>
+</troubleshooting>

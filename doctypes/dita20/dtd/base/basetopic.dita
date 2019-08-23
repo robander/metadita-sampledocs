@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.0 Base Topic//EN" "missing.dtd">
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.0 Base Topic//EN" "c:\github\robander\dita\doctypes\dtd\base\dtd\basetopic.dtd">
 <topic id="basetopic">
   <title>Base topic</title>
-  <body>
-    <p>Topic paragraph</p>
+  <body><p>Topic paragraph</p>
   </body>
 </topic>

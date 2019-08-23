@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:task.rng:2.0" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<task deliveryTarget="all" id="task_mjd_tsw_rv" xml:lang="en-us">
+<title>Sample task topic</title>
+<shortdesc>short desc</shortdesc>
+<taskbody>
+<context>
+<p>Something about this</p>
+</context>
+<steps>
+<step>
+<cmd>Single command</cmd>
+</step>
+</steps>
+</taskbody>
+</task>
