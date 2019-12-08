@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 2.x Reference//EN" "missing.dtd">
+<reference deliveryTarget="all" id="reference_t3h_ypw_rv" xml:lang="en-us">
+<title>Reference topic</title>
+<shortdesc>Sample reference topic</shortdesc>
+<refbody>
+<properties>
+<property>
+<proptype>Prop type</proptype>
+<propvalue>Prop value</propvalue>
+<propdesc>prop description</propdesc>
+</property>
+</properties>
+</refbody>
+</reference>

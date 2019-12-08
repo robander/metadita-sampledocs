@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA 2.x BookMap//EN" "missing.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Bookmap</mainbooktitle>
+    </booktitle>
+<chapter href="tcmap.ditamap" format="ditamap"/>
+</bookmap>

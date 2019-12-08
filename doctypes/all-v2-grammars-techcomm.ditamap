@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.3 Base Map//EN" "missing.dtd">
+<map xml:lang="en-us"><title>All OASIS grammars</title>
+    <mapref href="dita20/2.0grammars-techcomm.ditamap"/>
+    <mapref href="dita2.x/2.xgrammars-techcomm.ditamap"/>
+</map>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:classification:rng:classifyMap.rng:2.x" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<map>
+ <title>DITA Topic Map</title>
+<topicsubject keys="fun"/>
+</map>

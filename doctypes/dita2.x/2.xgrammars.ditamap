@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.x Base Map//EN" "missing.dtd">
+<map xml:lang="en-us"><title>Beta 2.0 version specific grammars</title>
+<topicref href="dtd/2.x.versionSpecificDTD.ditamap" format="ditamap"/>
+<topicref href="rng/2.x.versionSpecificRNG.ditamap" format="ditamap"/>
+</map>
