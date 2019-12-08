@@ -2,5 +2,5 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.x Base Map//EN" "missing.dtd">
 <map xml:lang="en-us"><title>Base map</title>
 <topicref href="base/SubjectScheme.ditamap" format="ditamap"/>
-<topicref href="base/basemap.ditamap" format="ditamap" navtitle="Base map"/>
+<topicref href="base/basemap.ditamap" format="ditamap"/>
 </map>
