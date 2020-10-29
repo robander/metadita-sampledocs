@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3 Reference//EN" "reference.dtd">
+<reference id="topic_lmb_3mh_wkb">
+    <title>Property tables</title>
+    <shortdesc>Testing property tables, with a variety of variances</shortdesc>
+    <refbody>
+        <section id="section_ymm_nsn_mnb">
+            <p>First, table with everything.</p>
+        </section>
+        <properties frame="all" id="properties_v31_xrn_mnb" relcolwidth="1* 1* 4*">
+            <prophead>
+                <proptypehd id="mytype" outputclass="mytypeclass">Specify</proptypehd>
+                <propvaluehd id="myvalue" outputclass="myvalueclass">Every</propvaluehd>
+                <propdeschd id="mydesc" outputclass="mydescclass">Header</propdeschd>
+            </prophead>
+            <property>
+                <proptype>this</proptype>
+                <propvalue>that</propvalue>
+                <propdesc>theother</propdesc>
+            </property>
+            <property>
+                <proptype>this</proptype>
+                <propvalue>that</propvalue>
+                <propdesc>theother</propdesc>
+            </property>
+            <property>
+                <proptype>this</proptype>
+                <propvalue>that</propvalue>
+                <propdesc>theother</propdesc>
+            </property>
+        </properties>
+        <section id="section_x4p_4sn_mnb">
+            <p>Table with all cols, no header.</p>
+        </section>
+        <properties frame="all" id="properties_rph_psn_mnb" relcolwidth="1* 1* 4*">
+            <property>
+                <proptype>this</proptype>
+                <propvalue>that</propvalue>
+                <propdesc>theother</propdesc>
+            </property>
+            <property>
+                <proptype>this</proptype>
+                <propvalue>that</propvalue>
+                <propdesc>theother</propdesc>
+            </property>
+            <property>
+                <proptype>this</proptype>
+                <propvalue>that</propvalue>
+                <propdesc>theother</propdesc>
+            </property>
+        </properties>
+        <section id="section_cmc_qsn_mnb">
+            <p>Table with type/value, no header.</p>
+        </section>
+        <properties frame="all" id="properties_dmc_qsn_mnb">
+            <property>
+                <proptype>this</proptype>
+                <propvalue>that</propvalue>
+            </property>
+            <property>
+                <proptype>this</proptype>
+                <propvalue>that</propvalue>
+            </property>
+            <property>
+                <proptype>this</proptype>
+                <propvalue>that</propvalue>
+            </property>
+        </properties>
+        <section id="section_os2_rsn_mnb">
+            <p>Table with type/desc, no header.</p>
+        </section>
+        <properties frame="all" id="properties_ps2_rsn_mnb">
+            <property>
+                <proptype>this</proptype>
+                <propdesc>theother</propdesc>
+            </property>
+            <property>
+                <proptype>this</proptype>
+                <propdesc>theother</propdesc>
+            </property>
+            <property>
+                <proptype>this</proptype>
+                <propdesc>theother</propdesc>
+            </property>
+        </properties>
+        <section id="section_kdx_rsn_mnb">
+            <p>Table with value/desc, no header.</p>
+        </section>
+        <properties frame="all" id="properties_ldx_rsn_mnb">
+            <property>
+                <propvalue>that</propvalue>
+                <propdesc>theother</propdesc>
+            </property>
+            <property>
+                <propvalue>that</propvalue>
+                <propdesc>theother</propdesc>
+            </property>
+            <property>
+                <propvalue>that</propvalue>
+                <propdesc>theother</propdesc>
+            </property>
+        </properties>
+        <!--toolkit 3.5.4 fails when the number of headers does not match the number of cells-->
+        <!--<section id="section_cyl_xtn_mnb"><p>weird one with one header (just type)</p></section><properties frame="all" id="properties_dyl_xtn_mnb"><prophead><proptypehd>Type header</proptypehd></prophead><property><proptype>this</proptype><propvalue>that</propvalue><propdesc>theother</propdesc></property><property><proptype>this</proptype><propvalue>that</propvalue><propdesc>theother</propdesc></property><property><proptype>this</proptype><propvalue>that</propvalue><propdesc>theother</propdesc></property></properties><section id="sectionaaa"><p>weird one with one header (just value)</p></section><properties frame="all" id="propaaa"><prophead><propvaluehd>Value header</propvaluehd></prophead><property><proptype>this</proptype><propvalue>that</propvalue><propdesc>theother</propdesc></property><property><proptype>this</proptype><propvalue>that</propvalue><propdesc>theother</propdesc></property><property><proptype>this</proptype><propvalue>that</propvalue><propdesc>theother</propdesc></property></properties><section id="section_b"><p>weird one with one header (just desc)</p></section><properties frame="all" id="properties_b"><prophead><propdeschd>Desc header</propdeschd></prophead><property><proptype>this</proptype><propvalue>that</propvalue><propdesc>theother</propdesc></property><property><proptype>this</proptype><propvalue>that</propvalue><propdesc>theother</propdesc></property><property><proptype>this</proptype><propvalue>that</propvalue><propdesc>theother</propdesc></property></properties>-->
+    </refbody>
+</reference>

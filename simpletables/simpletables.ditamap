@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Test simple table headers</title>
+    <topicmeta>
+        <shortdesc>Testing generated headers, as with property tables and choice tables.</shortdesc>
+    </topicmeta>
+    <topicref href="basics.dita">
+        <topicref href="reftables.dita"/>
+        <topicref href="tasktables.dita"/>
+    </topicref>
+</map>

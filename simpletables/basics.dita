@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.3 Topic//EN" "topic.dtd">
+<topic id="topic_lmb_3mh_wkb">
+    <title>Basic simpletable</title>
+    <shortdesc>Test tables with headers, see how result compares to the specialized
+        ones.</shortdesc>
+    <body>
+        <p>Simple</p>
+        <simpletable frame="all" id="simpletable_xvp_jrn_mnb">
+            <sthead>
+                <stentry>Head1</stentry>
+                <stentry>Head2</stentry>
+                <stentry>Head3</stentry>
+            </sthead>
+            <strow>
+                <stentry>this</stentry>
+                <stentry>is</stentry>
+                <stentry>a</stentry>
+            </strow>
+            <strow>
+                <stentry>simple</stentry>
+                <stentry>test</stentry>
+                <stentry>of</stentry>
+            </strow>
+            <strow>
+                <stentry>a</stentry>
+                <stentry>simple</stentry>
+                <stentry>table</stentry>
+            </strow>
+        </simpletable>
+        <p>Add relcolwidth</p>
+        <simpletable frame="all" relcolwidth="1* 2* 3*" id="simpletable_fxg_lrn_mnb">
+            <sthead>
+                <stentry>Head1</stentry>
+                <stentry>Head2</stentry>
+                <stentry>Head3</stentry>
+            </sthead>
+            <strow>
+                <stentry>this</stentry>
+                <stentry>is</stentry>
+                <stentry>a</stentry>
+            </strow>
+            <strow>
+                <stentry>simple</stentry>
+                <stentry>test</stentry>
+                <stentry>of</stentry>
+            </strow>
+            <strow>
+                <stentry>a</stentry>
+                <stentry>simple</stentry>
+                <stentry>table</stentry>
+            </strow>
+        </simpletable>
+        <p>Output class and IDs on headers</p>
+        <simpletable frame="all" id="simpletable_ygk_prn_mnb">
+            <sthead>
+                <stentry outputclass="bleep" id="heady1">Head1</stentry>
+                <stentry outputclass="blop" id="heady2">Head2</stentry>
+                <stentry outputclass="blorp" id="heady3">Head3</stentry>
+            </sthead>
+            <strow>
+                <stentry>this</stentry>
+                <stentry>is</stentry>
+                <stentry>a</stentry>
+            </strow>
+            <strow>
+                <stentry>simple</stentry>
+                <stentry>test</stentry>
+                <stentry>of</stentry>
+            </strow>
+            <strow>
+                <stentry>a</stentry>
+                <stentry>simple</stentry>
+                <stentry>table</stentry>
+            </strow>
+        </simpletable>
+    </body>
+</topic>

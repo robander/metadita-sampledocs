@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="tasktables">
+    <title>Test choice tables</title>
+    <shortdesc>simpler because they are on/off, no options</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Give me a choice, with headers</cmd>
+                <choicetable frame="all" relcolwidth="1* 1*" id="choicetable_dnq_h5n_mnb">
+                    <chhead>
+                        <choptionhd>This is my option</choptionhd>
+                        <chdeschd>This is my desc</chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>a</choption>
+                        <chdesc>b</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>c</choption>
+                        <chdesc>d</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>e</choption>
+                        <chdesc>f</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+            <step>
+                <cmd>Give me a choice, without headers</cmd>
+                <choicetable frame="all" relcolwidth="1* 1*" id="choicetable_gcr_h5n_mnb">
+                    <chrow>
+                        <choption>a</choption>
+                        <chdesc>b</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>c</choption>
+                        <chdesc>d</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>e</choption>
+                        <chdesc>f</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+        </steps>
+    </taskbody>
+</task>
