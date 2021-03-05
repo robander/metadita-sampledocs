@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.0 Base Topic//EN" "topic.dtd">
+<topic id="example">
+    <title>Child 2 of topic 2</title>
+    <shortdesc>Short description of this topic</shortdesc>
+    <body>
+        <p>content</p>
+        <ul id="ul_i2l_rnw_v4b">
+            <li>Root topic 1<ul id="ul_bz5_tnw_v4b">
+                    <li><xref href="branch1.dita"/></li>
+                    <li><xref href="branch1.dita#example"/></li>
+                    <li><xref href="branch1.dita#example/section"/></li>
+                </ul></li>
+            <li>Root topic 1, child 1<ul id="ul_bz5_tnw_v4c">
+                    <li><xref href="branch1-child1.dita"/></li>
+                    <li><xref href="branch1-child1.dita#example"/></li>
+                    <li><xref href="branch1-child1.dita#example/section"/></li>
+                </ul></li>
+            <li>Root topic 1, child 2<ul id="ul_bz5_tnw_v4d">
+                    <li><xref href="branch1-child2.dita"/></li>
+                    <li><xref href="branch1-child2.dita#example"/></li>
+                    <li><xref href="branch1-child2.dita#example/section"/></li>
+                </ul></li>
+            <li>Root topic 2<ul id="ul_bz5_tnw_v4e">
+                    <li><xref href="branch2.dita"/></li>
+                    <li><xref href="branch2.dita#example"/></li>
+                    <li><xref href="branch2.dita#example/section"/></li>
+                </ul></li>
+            <li>Root topic 2, child 1<ul id="ul_bz5_tnw_v4f">
+                    <li><xref href="branch2-child1.dita"/></li>
+                    <li><xref href="branch2-child1.dita#example"/></li>
+                    <li><xref href="branch2-child1.dita#example/section"/></li>
+                </ul></li>
+            <!--<li>Root topic 2, child 2<ul id="ul_bz5_tnw_v4g"><li><xref href="branch2-child2.dita"/></li><li><xref href="branch2-child2.dita#example"/></li><li><xref href="branch2-child2.dita#example/section"/></li></ul></li>-->
+        </ul>
+        <section id="section">
+            <title>This is a section in child 2 of topic 2</title>
+            <p>content in the section</p>
+        </section>
+    </body>
+</topic>

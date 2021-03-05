@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.0 Base Topic//EN" "topic.dtd">
+<topic id="example">
+    <title>Child 1 of topic 1</title>
+    <shortdesc>Short description of this topic</shortdesc>
+    <body>
+        <p>content</p>
+    </body>
+</topic>

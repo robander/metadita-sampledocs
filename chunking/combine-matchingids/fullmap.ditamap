@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.0 Base Map//EN" "missing.dtd">
+<map chunk="combine">
+    <title>Combine full map</title>
+    <topicref href="branch1.dita">
+        <topicref href="branch1-child1.dita"/>
+        <topicref href="branch1-child2.dita"/>
+    </topicref>
+    <topicref href="branch2.dita">
+        <topicref href="branch2-child1.dita"/>
+        <topicref href="branch2-child2.dita"/>
+    </topicref>
+</map>
