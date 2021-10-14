@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map collection-type="family">
+    <title>Custom product suite overview</title>
+    <!-- Content from product A (from productA.ditamap) -->
+    <topicref href="rootcontext.dita"/>
+    <topicref href="productA/overview.dita">
+        <topicref href="productA/using.dita" keys="usingprodA" keyscope="using">
+            <topicref href="productA/signup.dita" keys="signup"/>
+            <topicref href="productA/logging-in.dita" keys="login"/>
+            <!-- ... additional topics and keys -->
+            <topicref href="productA/issues.dita" keys="troubleshooting"/>
+        </topicref>
+    </topicref>
+    <!-- Content from product B (from productB.ditamap) -->
+    <topicref href="productB/overview.dita">
+        <topicref href="productB/using.dita" keys="usingprodB" keyscope="using">
+            <topicref href="productB/request-access.dita" keys="access"/>
+            <topicref href="productB/log-in-to-portal.dita" keys="login-portal"/>
+            <!-- ... additional topics and keys -->
+            <topicref href="productB/troubleshooting.dita" keys="troubleshooting"/>
+        </topicref>
+    </topicref>
+    <!-- ...Content from additional products... -->
+</map>
