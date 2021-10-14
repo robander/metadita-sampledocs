@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="using_dita_oxyKeyscopeStack_using_oxyKeyscopeContextMapURL_file_Users_rodaande_temp_scopetest">
+    <title>using prod B</title>
+    <body>
+        <ul id="ul_tcs_ytj_grb">
+            <li>key name usingprodA: <xref keyref="usingprodA"/></li>
+            <li>key name login: <xref keyref="login"/></li>
+            <li>key name signup: <xref keyref="signup"/></li>
+            <li>key name troubleshooting: <xref keyref="troubleshooting"/></li>
+            <li>key name usingprodB: <xref keyref="usingprodB"/></li>
+            <li>key name access: <xref keyref="access"/></li>
+            <li>key name login-portal: <xref keyref="login-portal"/></li>
+        </ul>
+        <p>Now scoped</p>
+        <ul id="ul_ek2_25j_grb">
+            <li>key name using.usingprodA: <xref keyref="using.usingprodA"/></li>
+            <li>key name using.login: <xref keyref="using.login"/></li>
+            <li>key name using.signup: <xref keyref="using.signup"/></li>
+            <li>key name using.troubleshooting: <xref keyref="using.troubleshooting"/></li>
+            <li>key name using.usingprodB: <xref keyref="using.usingprodB"/></li>
+            <li>key name using.access: <xref keyref="using.access"/></li>
+            <li>key name using.login-portal: <xref keyref="using.login-portal"/></li>
+        </ul>
+        <p>ok that's done, now maybe some child links will appear</p>
+    </body>
+</topic>
