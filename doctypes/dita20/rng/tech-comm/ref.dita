@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="urn:oasis:names:tc:dita:rng:reference.rng:2.0" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="urn:pubid:oasis:names:tc:dita:rng:reference.rng:2.0" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <reference deliveryTarget="all" id="reference_t3h_ypw_rv" xml:lang="en-us">
 <title>Reference topic</title>
 <shortdesc>Sample reference topic</shortdesc>
